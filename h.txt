@@ -1,0 +1,733 @@
+    1  ifconfig
+    2  sudo apt instal net-tools
+    3  sudo apt install net-tools
+    4  tree
+    5  claewr
+    6  cleaw
+    7  rclea
+    8  clear
+    9  cd /
+   10  clea
+   11  rcle
+   12  arclear
+   13  clear
+   14  tree
+   15  celar
+   16  clear
+   17  cd home/atlas/
+   18  clear
+   19  exit
+   20  sudo apt install tree
+   21  tree
+   22  sudo apt install tree
+   23  cleare
+   24  clea
+   25  clear
+   26  ifconfig
+   27  cler
+   28  clear
+   29  sudo ifconfig wlan1 down
+   30  clear
+   31  sudo apt install airmon-ng
+   32  clear
+   33  sudo apt-get install airmon-ng
+   34  sudo apt-get install aircrack-ng
+   35  clear
+   36  aircrack-n
+   37  aircrack-ng
+   38  clear
+   39  iwconfig
+   40  clear
+   41  airmon-ng start wlan1
+   42  sudo airmon-ng start wlan1
+   43  cleawr
+   44  clear
+   45  cd /usr/share/
+   46  clear
+   47  ls
+   48  find wordlist
+   49  locate
+   50  sudo apt install mlcate
+   51  sudo apt install mlocate
+   52  clear
+   53  cd /home/atlas/
+   54  clear
+   55  ls
+   56  mkdir learn
+   57  cd lear
+   58  cd learn/
+   59  mkdir html php gti bash 
+   60  clear
+   61  ls
+   62  cd ..
+   63  clear
+   64  ls -a
+   65  tree
+   66  clear
+   67  ls
+   68  cd learn/
+   69  celar
+   70  clear
+   71  code --help
+   72  nautilus .
+   73  nautilus
+   74  clear
+   75  ls
+   76  cd learn/
+   77  .
+   78  clear
+   79  git --help
+   80  sudo apt install git
+   81  code
+   82  clear
+   83  nautilus
+   84  mv gti/ git
+   85  clear
+   86  exit
+   87  cd Downloads/
+   88  celar
+   89  clear
+   90  sudo cp -rp firefox-100.0b1.tar.bz2
+   91  sudo cp -rp firefox-100.0b1.tar.bz2 /opt
+   92  cd /opt/
+   93  lceawr
+   94  celar
+   95  clear
+   96  ls
+   97  sudo tar xjf firefox-100.0b1.tar.bz2
+   98  ls
+   99  clea
+  100  clear
+  101  sudo chown -R SUSER /opt/firefox
+  102  sudo chown -R $USER /opt/firefox
+  103  nano ~/.bashrc 
+  104  ls
+  105  cd firefox/
+  106  clear
+  107  ls
+  108  clear
+  109  cd ..
+  110  clera
+  111  clear
+  112  ls
+  113  cd home/atlas/
+  114  clear
+  115  ls
+  116  cd Downloads/
+  117  ls
+  118  clear
+  119  sudo tar xjf firefox-100.0b1.tar.bz2
+  120  rmdir firefox/
+  121  ls
+  122  sudo rmdir firefox/
+  123  sudo rmdir 'firefox/'
+  124  sudo rmdir 'firefox/':
+  125  clear
+  126  tar xjf firefox-100.0b1.tar.bz2
+  127  ls
+  128  clear
+  129  cd /
+  130  cd bin
+  131  ls
+  132  firefox 
+  133  ls
+  134  cd ..
+  135  cd opt/
+  136  ls
+  137  rm -r firefox
+  138  sudo  rm -r firefox
+  139  ls
+  140  sudo  rm -r firefox-100.0b1.tar.bz2 
+  141  ls
+  142  clear
+  143  cd ~
+  144  poweroff 
+  145  cd ..
+  146  mv firefox firefox-dev
+  147  pwd 
+  148  sudo in -s /home/atlas/Downloads/firefox-dev/firefox /bin/firefox-dev
+  149  clear
+  150  firefox-dev
+  151  sudo in -s /home/atlas/Downloads/firefox-dev/firefox /bin/firefox-dev
+  152  clear
+  153  sudo in -s /home/atlas/Downloads/firefox-dev/firefox /bin/firefox-dev
+  154  ls -l /bin/ | grep firefox-dev
+  155  ls -l /bin/ | grep 
+  156  cd html/
+  157  touch lisson1.html
+  158  clear
+  159  rm -r lisson1.html 
+  160  touch 
+  161  cler
+  162  clear
+  163  touch index.html
+  164  clear
+  165  ls
+  166  clear
+  167  ls
+  168  cd learn/
+  169  ls
+  170  clear
+  171  cd ..
+  172  cd snap/
+  173  ls
+  174  cd ..
+  175  clear
+  176  ifconfig
+  177  clear
+  178  ls
+  179  ifconfig |gerp "wlan1"
+  180  ifconfig |grep "wlan1"
+  181  clear
+  182  ifconfig
+  183  clear
+  184  airmon-ng 
+  185  cd /etc/udev/rules.d/
+  186  clear
+  187  ls
+  188  ls -l
+  189  iconfig
+  190  ifconfig
+  191  sudo in -s /dev/null/etc/udev/rules.d/80-net-setup-link.rules
+  192  in -s /dev/null/etc/udev/rules.d/80-net-setup-link.rules
+  193  in -s/dev/null/etc/udev/rules.d/80-net-setup-link.rules
+  194  sudo in -s/dev/null/etc/udev/rules.d/80-net-setup-link.rules
+  195  clear
+  196  iwconfig 
+  197  cleqra
+  198  clear
+  199  iwconfig 
+  200  sudo airmon-ng start wlxd03745c1349a
+  201  ifconfig 
+  202  clear
+  203  sudo airmon-ng check kill
+  204  ifconfig 
+  205  ls
+  206  lcear
+  207  clear
+  208  iwconfig 
+  209  ifconfig up wlo1
+  210  iwconfig --help 
+  211  airmon-ng -help
+  212  sudo airmon-ng --help
+  213  sudo start wl01 
+  214  sudo airmon-ng start wl01 
+  215  ip link show
+  216  clear
+  217  iwconfig --help 
+  218  reboot
+  219  git push https://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@github.com/ahmed2028/git-learn.git
+  220  clear
+  221  touch ahmed.txt
+  222  git 
+  223  clear
+  224  git add ahmed.txt 
+  225  git commit 
+  226  git commit -m 'a'
+  227  cler
+  228  clear
+  229  mkdir ahmed
+  230  git status 
+  231  clewar
+  232  clear
+  233  git add ahmed
+  234  git status 
+  235  clear
+  236  git add Untitled\ Document\ 1 
+  237  git status 
+  238  git commit -m 'aa'
+  239  git status 
+  240  claere
+  241  clear
+  242  git push origin main 
+  243  git config 
+  244  clear
+  245  git config --global user.name "ahmed2028"
+  246  git config --global user.email "ahmedmosatafa636@gmail.com
+  247  git config --global user.email "ahmedmosatafa636@gmail.com"
+  248  clear
+  249  git push origin main 
+  250  sudo su
+  251  git --help 
+  252  clear
+  253  cd learn/
+  254  ls
+  255  clear
+  256  cd git/
+  257  ls
+  258  claer
+  259  clear
+  260  git clone https://github.com/ahmed2028/git-learn.git
+  261  clear
+  262  git clone https://github.com/ahmed2028/git-learn.git
+  263  clear
+  264  ls
+  265  cd git-learn/
+  266  ls
+  267  clear
+  268  mkdir html css php main
+  269  cd php/
+  270  lesson1.php 
+  271  touch lesson1.php
+  272  cd ../html/
+  273  touch index.html
+  274  clear
+  275  cd ..
+  276  ls
+  277  cd main/
+  278  touch main.cpp
+  279  cd ../css/
+  280  stayle.css
+  281  touch stayle.css
+  282  clear
+  283  cd ..
+  284  clear
+  285  git status 
+  286  git add  css/ html/ main/ php/
+  287  clear
+  288  git status 
+  289  git commit 
+  290  git commit "new commit"
+  291  git commit "new commit" php/ main/ html/ css/
+  292  clear
+  293  git stutas
+  294  git status 
+  295  clear
+  296  git status 
+  297  clear
+  298  git reset main 
+  299  clear
+  300  git reset head main 
+  301  clear
+  302  ls
+  303  clea
+  304  celar
+  305  clear
+  306  git reset head main 
+  307  clear
+  308  git status 
+  309  git reset css/stayle.css
+  310  clear
+  311  git status 
+  312  git add css/
+  313  clear
+  314  ls
+  315  clear
+  316  git status 
+  317  git reset *
+  318  git status 
+  319  clear
+  320  git status 
+  321  clera
+  322  clear
+  323  git add  *
+  324  clear
+  325  git status 
+  326  clear
+  327  git commit -m 'new version'
+  328  git config --global user.email "ahmedmosatafa636@gmail.com"
+  329  git commit -m 'new version'
+  330  clea
+  331  clear
+  332  git status 
+  333  git branch 
+  334  git remote -v
+  335  git push origin main 
+  336  clear
+  337  git config --global user.name "ahmed2028"
+  338  git config -l
+  339  ls -l
+  340  clear
+  341  git config --global credential.helper store
+  342  git push origin main 
+  343  gedit
+  344  clar
+  345  clear
+  346  gedit Untitled\ Document\ 1 
+  347  clawr
+  348  claer
+  349  clear
+  350  cat Untitled\ Document\ 1 
+  351  gedit Untitled\ Document\ 1 
+  352  ls
+  353  clear
+  354  cd learn/git/
+  355  ls
+  356  clear
+  357  clewr
+  358  clear
+  359  cd ../..
+  360  clear
+  361  cd learn/git/git-learn/
+  362  clear
+  363  git status
+  364  echo "ahmed" >> ahmed
+  365  echo "ahmed" >> ahmed.txt 
+  366  cealr
+  367  clear
+  368  ls
+  369  cat Untitled\ Document\ 1 
+  370  clearw
+  371  clear
+  372  echo "the new version" >> Untitled\ Document\ 1 
+  373  clear
+  374  ls
+  375  cd ahmed/
+  376  ls
+  377  touch new.txt
+  378  mv new.txt new.sh
+  379  clear
+  380  ls
+  381  cd ..
+  382  ls
+  383  cd css/
+  384  ls
+  385  cat stayle.css 
+  386  clear
+  387  cd .. ..
+  388  cd ../..
+  389  ls
+  390  cd git-learn/
+  391  ls
+  392  celar
+  393  clear
+  394  git statas
+  395  git status
+  396  clear
+  397  git status 
+  398  git add *
+  399  clear
+  400  lsd
+  401  clear
+  402  git status 
+  403  git commit -m 'new version'
+  404  git remote -v
+  405  celar
+  406  git branch 
+  407  clear
+  408  git push origin main 
+  409  git config --global user.mail 'ahmedmosatafa636@gmail.com
+  410  git config --global user.mail 'ahmedmosatafa636@gmail.com'
+  411  clear
+  412  git push 
+  413  git push
+  414  clear
+  415  git  push origin main 
+  416  clear
+  417  git config --global user.name "ahmed2028"
+  418  clear
+  419  git config --global user.email "ahmedmosatafa636@gmil.com
+  420  git config --global user.email "ahmedmosatafa636@gmil.com"
+  421  git config -l
+  422  clear
+  423  git  push origin main 
+  424  celr
+  425  clear
+  426  celar
+  427  clear
+  428  ls
+  429  cea
+  430  clear
+  431  cd ..
+  432  cd..
+  433  clear
+  434  cd ..
+  435  tree
+  436  clear
+  437  cd learn/
+  438  tree
+  439  cd php/
+  440  touch new.php
+  441  claer
+  442  clear
+  443  cd ..
+  444  tree
+  445  clear
+  446  tree
+  447  clear
+  448  cat >> token.txt
+  449  rm -r token.txt 
+  450  clear
+  451  ls
+  452  tree
+  453  clear
+  454  ls
+  455  cd git/git-learn/
+  456  mv Untitled\ Document\ 1 token.txt
+  457  clear
+  458  ls
+  459  clear
+  460  git status 
+  461  git add token.txt 
+  462  git commit -n 'token'
+  463  git commit -m 'token'
+  464  clear
+  465  git push 
+  466  touch new_token.txt
+  467  sudo ssh-keygen -t rsa -b 4096 -C "ahmedmosatafa636@gmail.com"
+  468  ssh-keygen -t rsa -b 4096 -C "ahmedmosatafa636@gmail.com"
+  469  clear
+  470  cd ../../..
+  471  clear
+  472  ls
+  473  ls -l
+  474  clar
+  475  clear
+  476  ls -a
+  477  cd .ssh/
+  478  ls
+  479  clae
+  480  claer
+  481  cleawr
+  482  clear
+  483  ls
+  484  clear
+  485  ls -a
+  486  locate git-key
+  487  locate git
+  488  clar
+  489  clear
+  490  locate git 
+  491  locate git | grep "git-key"
+  492  clear
+  493  cd ..
+  494  cd learn/
+  495  ls
+  496  cd git/
+  497  ls
+  498  cd git-learn/
+  499  ls
+  500  locate github_key
+  501  sudo  locate github_key
+  502  cd /home/atlas/Desktop/
+  503  touch commend.txt
+  504  sudo updatedb
+  505  locate -n 10 *.py
+  506  clear
+  507  locate github_key
+  508  locate ahmed
+  509  clear
+  510  gedit commend.txt 
+  511  clear
+  512  git config list
+  513  git config liste
+  514  list
+  515  clear
+  516  git config --global list
+  517  clear
+  518  tree
+  519  clear
+  520  cd .
+  521  cd ..
+  522  clear
+  523  tree
+  524  clear
+  525  cd learn/
+  526  clear
+  527  tree
+  528  clera
+  529  coelar
+  530  clear
+  531  ls
+  532  gedit ~/Desktop/
+  533  gedit ~/Desktop/commend.txt 
+  534  cat ~/Desktop/commend.txt 
+  535  gedit ~/Desktop/commend.txt 
+  536  claewr
+  537  clear
+  538  cd git/git-learn/
+  539  ls
+  540  clear
+  541  ls
+  542  cat github_key.pub 
+  543  clear
+  544  ls
+  545  cat github_key
+  546  clear
+  547  ls
+  548  mkdir github_key
+  549  mkdir github_key 
+  550  clear
+  551  mkdir github-key
+  552  clear
+  553  ls
+  554  mv github_key github_key.pub github-key/
+  555  clear
+  556  ls
+  557  cd github-key/
+  558  ls
+  559  clear
+  560  ls
+  561  cat github_key.pub 
+  562  ping github.com
+  563  clear
+  564  ssh -T git@github.com
+  565  sudo ssh -T git@github.com
+  566  celar
+  567  clear
+  568  ls
+  569  rm -r github_key.pub github_key
+  570  clear
+  571  ssh-keygen -t rsa -b 4096 -C 'ahmedmosatafa636@gmail.com
+  572  ssh-keygen -t rsa -b 4096 -C 'ahmedmosatafa636@gmail.com'
+  573  cat github_key.pub 
+  574  clear
+  575  ssh -T git@github.com
+  576  sudo  ssh -T git@github.com
+  577  clear
+  578  cd ~
+  579  clear
+  580  cd .ssh
+  581  clear
+  582  ls
+  583  cd kn
+  584  clear
+  585  ls
+  586  sudo su
+  587  cd ..
+  588  cear
+  589  clclar
+  590  calr
+  591  claer
+  592  clear
+  593  cd .ssh/
+  594  ls
+  595  clear
+  596  cd ..
+  597  cd learn/git/git-learn/
+  598  ls
+  599  cd github-key/
+  600  ls
+  601  eval "$(ssh-agent -s)"
+  602  ls
+  603  rm -r github_key github_key.pub 
+  604  cealr
+  605  clear
+  606  cd ~
+  607  ls
+  608  rm -r ahmed2028-git ahmed2028-git.pub 
+  609  celar
+  610  cleawr
+  611  clear
+  612  ssh-keygen -o
+  613  clear
+  614  ssh -T git@github.com
+  615  sudo apt install openssh-server
+  616  clear
+  617  cd learn/git/git-learn/
+  618  ls
+  619  celar
+  620  git status 
+  621  git add new_token.txt 
+  622  git commit -m 'new version'
+  623  clear
+  624  git push origin main 
+  625  git --h
+  626  git rm main/
+  627  git rm -r main/
+  628  clear
+  629  git branch 
+  630  sudo apt policy 
+  631  git help 
+  632  git status 
+  633  git restore Untitled Docment
+  634  celar
+  635  clear
+  636  ls -a
+  637  rm -rf .git/
+  638  clear
+  639  git status 
+  640  celar
+  641  clear
+  642  sl
+  643  cd..
+  644  cd .
+  645  cd ..
+  646  celar
+  647  clea
+  648  rclear
+  649  clear
+  650  ls
+  651  cd ..
+  652  rmdir git/
+  653  rmdir -rf git/
+  654  rm -rf git/
+  655  clear
+  656  git clone git@github.com:ahmed2028/git-learn.git
+  657  clear
+  658  ls
+  659  cd git-learn/
+  660  ls
+  661  clat
+  662  celar
+  663  clear
+  664  clat Untitled\ Document\ 1 
+  665  cat Untitled\ Document\ 1 
+  666  echo 'ahmed' Untitled\ Document\ 1 
+  667  echo "ahmed" Untitled\ Document\ 1 
+  668  clear
+  669  cat Untitled\ Document\ 1 
+  670  echo "ahmed" >> Untitled\ Document\ 1 
+  671  clear
+  672  cat Untitled\ Document\ 1 
+  673  git status 
+  674  git add Untitled\ Document\ 1 
+  675  git commit -m ""
+  676  git commit -m " "
+  677  git commit -m "test ssh"
+  678  git remote -v
+  679  clear
+  680  git branch 
+  681  celar
+  682  clear
+  683  git push origin main 
+  684  celar
+  685  clear
+  686  git rm --cached Untitled\ Document\ 1 
+  687  git commit -m "remove file"
+  688  git push origin main 
+  689  clear
+  690  git status 
+  691  clear
+  692  rm Untitled\ Document\ 1 
+  693  clear
+  694  cd ..
+  695  mkdir new-github-repo
+  696  clear
+  697  cd new-github-repo/
+  698  git init
+  699  git branch 
+  700  clear
+  701  cd .git/
+  702  ls
+  703  cat config 
+  704  clear
+  705  cd ..
+  706  touch index.html
+  707  git status 
+  708  git add index.html 
+  709  git commit -m "creade the main file"
+  710  git branch -M master
+  711  git branch 
+  712  clear
+  713  remote add origin git@github.com:ahmed2028/test.git
+  714  git remote add origin git@github.com:ahmed2028/test.git
+  715  celar
+  716  clear
+  717  git push -u origin master 
+  718  git pull 
+  719  clear
+  720  ls
+  721  touch about.html
+  722  clear
+  723  ls
+  724  git add about.html 
+  725  git commit 
+  726  git push origin master 
+  727  celar
+  728  clear
+  729  git config list
+  730  clear
+  731  git config
+  732  git config --global lsit
+  733  history > h.txt
